@@ -9,7 +9,8 @@ const style = {
     }
 }
 
-function BodySection(currentPage) {
+function BodySection({currentPage}) {
+    console.log(currentPage);
     if (currentPage === 'About'){
     return <div style={style.bodyImg} class="jumbotron">
         <div className='d-flex justify-content-center align-items-center h-100'>

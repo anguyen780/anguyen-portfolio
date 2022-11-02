@@ -2,8 +2,9 @@ import React from 'react';
 
 export default function About() {
   return (
-    <div>
-      <h1>About Page</h1>
+    <div className='container'>
+      <h1>About Me</h1>
+      <div className='container-fluid'>
       <p>
         Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
         Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
@@ -12,6 +13,7 @@ export default function About() {
         imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus
         in. Sed rhoncus mollis diam, sit amet facilisis lectus blandit at.
       </p>
+      </div>
     </div>
   );
 }
