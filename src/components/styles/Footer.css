@@ -1,0 +1,8 @@
+.github-icon, .linkedin-icon{
+    font-size: 30px;
+    opacity: 80%;
+}
+
+.github-icon:hover, .linkedin-icon:hover{
+    opacity: 100%;
+}
