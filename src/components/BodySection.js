@@ -5,11 +5,12 @@ const style = {
     bodyImg: {
         backgroundImage: `url(${bgImg})`,
         backgroundSize: 'cover',
-        height: '450px'
+        height: '450px',
     }
 }
 
-function BodySection() {
+function BodySection(currentPage) {
+    if (currentPage === 'About'){
     return <div style={style.bodyImg} class="jumbotron">
         <div className='d-flex justify-content-center align-items-center h-100'>
             <div className='text-white'>
@@ -18,6 +19,7 @@ function BodySection() {
             </div>
         </div>
     </div>
+    }
 }
 
 export default BodySection

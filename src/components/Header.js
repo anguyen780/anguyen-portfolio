@@ -14,7 +14,6 @@ export default function Header() {
     const renderPage = () => {
         if (currentPage === 'About') {
             return <About />
-
         }
         if (currentPage === 'Portfolio') {
             return <Portfolio />;
@@ -34,7 +33,7 @@ export default function Header() {
                 <Navbar currentPage={currentPage} pageChange={pageChange} />
             </header>
             <div>
-                <BodySection />
+                <BodySection currentPage={currentPage} />
             </div>
             <div>
                 {renderPage()}
