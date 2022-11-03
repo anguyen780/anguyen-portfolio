@@ -2,7 +2,7 @@ import React from 'react';
 import playlistProducer from '../../assets/playlistproducer.png';
 import happyLittleTrees from '../../assets/happylittletrees.png';
 import noteTaker from '../../assets/notetaker.png';
-import weatherDashboard from '../../assets/weatherdashboard.png'
+import weatherDashboard from '../../assets/weatherdashboard.png';
 
 export default function Portfolio() {
   return (
