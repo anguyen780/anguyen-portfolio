@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ch_20_react_portfolio/static/css/main.87175321.css",
+    "main.js": "/ch_20_react_portfolio/static/js/main.8d6ced50.js",
+    "static/js/787.b13eeccf.chunk.js": "/ch_20_react_portfolio/static/js/787.b13eeccf.chunk.js",
+    "static/media/jumbotron-img.jpeg": "/ch_20_react_portfolio/static/media/jumbotron-img.6b1b35a1d55e935deb9a.jpeg",
+    "static/media/happylittletrees.png": "/ch_20_react_portfolio/static/media/happylittletrees.25789b43d96b35ad742f.png",
+    "static/media/bootstrap-icons.woff?": "/ch_20_react_portfolio/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/ch_20_react_portfolio/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "static/media/weatherdashboard.png": "/ch_20_react_portfolio/static/media/weatherdashboard.2b719b8957e2c0bcac83.png",
+    "static/media/playlistproducer.png": "/ch_20_react_portfolio/static/media/playlistproducer.f8dfb19045c5199a76f0.png",
+    "static/media/notetaker.png": "/ch_20_react_portfolio/static/media/notetaker.075cbbb9ca424e639c44.png",
+    "index.html": "/ch_20_react_portfolio/index.html",
+    "main.87175321.css.map": "/ch_20_react_portfolio/static/css/main.87175321.css.map",
+    "main.8d6ced50.js.map": "/ch_20_react_portfolio/static/js/main.8d6ced50.js.map",
+    "787.b13eeccf.chunk.js.map": "/ch_20_react_portfolio/static/js/787.b13eeccf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87175321.css",
+    "static/js/main.8d6ced50.js"
+  ]
+}
