@@ -2,7 +2,7 @@ import React from 'react';
 import playlistProducer from '../../assets/playlistproducer.png';
 import happyLittleTrees from '../../assets/happylittletrees.png';
 import noteTaker from '../../assets/notetaker.png';
-import weatherDashboard from '../../assets/weatherdashboard.png';
+import glimpse from '../../assets/glimpse.png';
 
 export default function Portfolio() {
   return (
@@ -44,11 +44,11 @@ export default function Portfolio() {
 
   <div class="col mb-4">
     <div class="card">
-      <a href='https://anguyen780.github.io/Ch6-Weather-Dashboard/' target={'blank'}><img src={weatherDashboard} class="card-img-top" alt="playlist-producer"/></a>
+      <a href='https://glimpse-chat.herokuapp.com/' target={'blank'}><img src={glimpse} class="card-img-top" alt="playlist-producer"/></a>
       <div class="card-body bg-dark text-white">
-        <h5 class="card-title">Weather Dashboard</h5>
-        <p class="card-text">Server Side APIs</p>
-        <a className='github-icon link-light' href='https://github.com/anguyen780/Ch6-Weather-Dashboard'><i className="bi bi-github"></i></a>
+        <h5 class="card-title">Glimpse</h5>
+        <p class="card-text">React, Websockets, Apollo Graphql</p>
+        <a className='github-icon link-light' href='https://github.com/Shengaero/glimpse'><i className="bi bi-github"></i></a>
       </div>
     </div>
   </div>
