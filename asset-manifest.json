@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ch_20_react_portfolio/static/css/main.87175321.css",
-    "main.js": "/ch_20_react_portfolio/static/js/main.0d569a2c.js",
+    "main.js": "/ch_20_react_portfolio/static/js/main.e5dea479.js",
     "static/js/787.b13eeccf.chunk.js": "/ch_20_react_portfolio/static/js/787.b13eeccf.chunk.js",
     "static/media/jumbotron-img.jpeg": "/ch_20_react_portfolio/static/media/jumbotron-img.6b1b35a1d55e935deb9a.jpeg",
     "static/media/happylittletrees.png": "/ch_20_react_portfolio/static/media/happylittletrees.25789b43d96b35ad742f.png",
@@ -12,11 +12,11 @@
     "static/media/notetaker.png": "/ch_20_react_portfolio/static/media/notetaker.075cbbb9ca424e639c44.png",
     "index.html": "/ch_20_react_portfolio/index.html",
     "main.87175321.css.map": "/ch_20_react_portfolio/static/css/main.87175321.css.map",
-    "main.0d569a2c.js.map": "/ch_20_react_portfolio/static/js/main.0d569a2c.js.map",
+    "main.e5dea479.js.map": "/ch_20_react_portfolio/static/js/main.e5dea479.js.map",
     "787.b13eeccf.chunk.js.map": "/ch_20_react_portfolio/static/js/787.b13eeccf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.87175321.css",
-    "static/js/main.0d569a2c.js"
+    "static/js/main.e5dea479.js"
   ]
 }
