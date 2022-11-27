@@ -1,8 +1,4 @@
-# React Portfolio 
-
-## Description
-
-A proffesional portfolio using what we learned from React that contains projects I have worked on, a contact page and a link to my resume.
+# Portfolio 
 
 ## Usage
 
