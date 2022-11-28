@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.6399cd87.css",
-    "main.js": "/portfolio/static/js/main.1f5fe789.js",
-    "static/js/787.b13eeccf.chunk.js": "/portfolio/static/js/787.b13eeccf.chunk.js",
-    "static/media/jumbotron-img.jpeg": "/portfolio/static/media/jumbotron-img.6b1b35a1d55e935deb9a.jpeg",
-    "static/media/happylittletrees.png": "/portfolio/static/media/happylittletrees.25789b43d96b35ad742f.png",
-    "static/media/bootstrap-icons.woff?": "/portfolio/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
-    "static/media/bootstrap-icons.woff2?": "/portfolio/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
-    "static/media/playlistproducer.png": "/portfolio/static/media/playlistproducer.f8dfb19045c5199a76f0.png",
-    "static/media/glimpse.png": "/portfolio/static/media/glimpse.d5b71475ba855067b540.png",
-    "static/media/notetaker.png": "/portfolio/static/media/notetaker.075cbbb9ca424e639c44.png",
-    "index.html": "/portfolio/index.html",
-    "main.6399cd87.css.map": "/portfolio/static/css/main.6399cd87.css.map",
-    "main.1f5fe789.js.map": "/portfolio/static/js/main.1f5fe789.js.map",
-    "787.b13eeccf.chunk.js.map": "/portfolio/static/js/787.b13eeccf.chunk.js.map"
+    "main.css": "/anguyen-portfolio/static/css/main.931a6357.css",
+    "main.js": "/anguyen-portfolio/static/js/main.43c03f3c.js",
+    "static/js/787.b13eeccf.chunk.js": "/anguyen-portfolio/static/js/787.b13eeccf.chunk.js",
+    "static/media/jumbotron-img.jpeg": "/anguyen-portfolio/static/media/jumbotron-img.6b1b35a1d55e935deb9a.jpeg",
+    "static/media/happylittletrees.png": "/anguyen-portfolio/static/media/happylittletrees.25789b43d96b35ad742f.png",
+    "static/media/bootstrap-icons.woff?": "/anguyen-portfolio/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/anguyen-portfolio/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "static/media/playlistproducer.png": "/anguyen-portfolio/static/media/playlistproducer.f8dfb19045c5199a76f0.png",
+    "static/media/glimpse.png": "/anguyen-portfolio/static/media/glimpse.d5b71475ba855067b540.png",
+    "static/media/notetaker.png": "/anguyen-portfolio/static/media/notetaker.075cbbb9ca424e639c44.png",
+    "index.html": "/anguyen-portfolio/index.html",
+    "main.931a6357.css.map": "/anguyen-portfolio/static/css/main.931a6357.css.map",
+    "main.43c03f3c.js.map": "/anguyen-portfolio/static/js/main.43c03f3c.js.map",
+    "787.b13eeccf.chunk.js.map": "/anguyen-portfolio/static/js/787.b13eeccf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6399cd87.css",
-    "static/js/main.1f5fe789.js"
+    "static/css/main.931a6357.css",
+    "static/js/main.43c03f3c.js"
   ]
 }
