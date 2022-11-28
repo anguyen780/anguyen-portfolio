@@ -2,7 +2,7 @@
 
 ## Usage
 
-You can visit the deployed portfolio [here](https://anguyen780.github.io/portfolio/)
+You can visit the deployed portfolio [here](https://anguyen780.github.io/anguyen-portfolio/)
 
 ![](./src/assets/reactportfolio.png)
 
