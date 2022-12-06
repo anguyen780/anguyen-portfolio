@@ -1,12 +1,8 @@
-# React Portfolio 
-
-## Description
-
-A proffesional portfolio using what we learned from React that contains projects I have worked on, a contact page and a link to my resume.
+# Portfolio 
 
 ## Usage
 
-You can visit the deployed portfolio [here](https://anguyen780.github.io/ch_20_react_portfolio/)
+You can visit the deployed portfolio [here](https://anguyen780.github.io/anguyen-portfolio/)
 
 ![](./src/assets/reactportfolio.png)
 

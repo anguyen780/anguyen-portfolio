@@ -12,7 +12,7 @@ export default function About() {
       <div className='container-fluid '>
       <h1>About Me</h1>
       <p>
-        I'm a Full-Stack Web Developer from Chicago, IL looking for a role in the tech field. I am currently attending Northwestern Universities Full-Stack Web Development bootcamp in order to learn and hone the skills I attain. 
+        I am a Full-Stack Web Developer from Chicago, IL. I recently earned a certificate in Full-Stack Web Development from Northwestern University's coding bootcamp. Some skills attained while attending this bootcamp include HTML, CSS, JavaScript, React.js and many more. Please head over to the portfolio page to see some of my projects!
       </p>
       </div>
     </div>
