@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/anguyen-portfolio/static/css/main.931a6357.css",
-    "main.js": "/anguyen-portfolio/static/js/main.eef29091.js",
+    "main.js": "/anguyen-portfolio/static/js/main.f7ffcf2f.js",
     "static/js/787.e9db0e5b.chunk.js": "/anguyen-portfolio/static/js/787.e9db0e5b.chunk.js",
     "static/media/jumbotron-img.jpeg": "/anguyen-portfolio/static/media/jumbotron-img.6b1b35a1d55e935deb9a.jpeg",
     "static/media/happylittletrees.png": "/anguyen-portfolio/static/media/happylittletrees.25789b43d96b35ad742f.png",
@@ -12,11 +12,11 @@
     "static/media/notetaker.png": "/anguyen-portfolio/static/media/notetaker.075cbbb9ca424e639c44.png",
     "index.html": "/anguyen-portfolio/index.html",
     "main.931a6357.css.map": "/anguyen-portfolio/static/css/main.931a6357.css.map",
-    "main.eef29091.js.map": "/anguyen-portfolio/static/js/main.eef29091.js.map",
+    "main.f7ffcf2f.js.map": "/anguyen-portfolio/static/js/main.f7ffcf2f.js.map",
     "787.e9db0e5b.chunk.js.map": "/anguyen-portfolio/static/js/787.e9db0e5b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.931a6357.css",
-    "static/js/main.eef29091.js"
+    "static/js/main.f7ffcf2f.js"
   ]
 }
